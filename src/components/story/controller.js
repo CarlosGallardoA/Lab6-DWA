@@ -7,7 +7,7 @@
     data: // Sera el cuerpo de nuestra respuesta esto va a tener un mensaje con los datos o un mensaje de error
   }
  */
-import { prisma } from "../../db";
+import prisma from "../../db";
 
 // Listar
 // METHOD: GET
